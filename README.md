@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://christiandc19.github.io/MyReactPortfolio/](https://christiandc19.github.io/MyReactPortfolio/)
 
-- 📫 How to reach me **christiancarandang@hotmailcom**
+- 📫 How to reach me **christiancarandang@hotmail.com**
 
 - ⚡ Fun fact **I enjoy spending my time with nature, outdoor activities, travelling, camps, photography and beer.**
 
